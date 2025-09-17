@@ -11,7 +11,7 @@ import java.util.Scanner;
 /**
  *
  * @author Megha Patel 2025 :)
- * manahas
+ * mnahas
  */
 public class StudentList {
 
